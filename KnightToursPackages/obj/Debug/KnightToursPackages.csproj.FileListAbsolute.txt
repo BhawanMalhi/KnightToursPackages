@@ -1,0 +1,172 @@
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\ApplicationInsights.config
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\roslyn\csc.exe
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\roslyn\vbc.exe
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\roslyn\VBCSCompiler.exe
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\KnightToursPackages.dll.config
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\KnightToursPackages.dll
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\KnightToursPackages.pdb
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.Web.dll
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\Microsoft.ApplicationInsights.dll
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.Web.xml
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\Microsoft.ApplicationInsights.xml
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.csprojResolveAssemblyReference.cache
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.dll
+C:\Users\laptopshop\Documents\Visual Studio 2015\Projects\Knight Tour\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.pdb
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\ApplicationInsights.config
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\roslyn\csc.exe
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\roslyn\vbc.exe
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\roslyn\VBCSCompiler.exe
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\KnightToursPackages.dll.config
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\KnightToursPackages.dll
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\KnightToursPackages.pdb
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.Web.dll
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.Web.xml
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.csprojAssemblyReference.cache
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.csproj.CoreCompileInputs.cache
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.csproj.CopyComplete
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.dll
+C:\Users\mugdh\OneDrive\Desktop\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.pdb
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\ApplicationInsights.config
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\csc.exe
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\vbc.exe
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\VBCSCompiler.exe
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\KnightToursPackages.dll.config
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\KnightToursPackages.dll
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\KnightToursPackages.pdb
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.Web.dll
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.Web.xml
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.csprojAssemblyReference.cache
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.csproj.CoreCompileInputs.cache
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.csproj.CopyComplete
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.dll
+C:\Users\bhawa\Downloads\Semester4\C#\Assignments\KnightToursPackages\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.pdb
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\ApplicationInsights.config
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\csc.exe
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\System.Collections.Immutable.dll
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\System.Reflection.Metadata.dll
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\vbc.exe
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\VBCSCompiler.exe
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\roslyn\VBCSCompiler.exe.config
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\KnightToursPackages.dll.config
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\KnightToursPackages.dll
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\KnightToursPackages.pdb
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.Agent.Intercept.dll
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.DependencyCollector.dll
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.Web.dll
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.WindowsServer.dll
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.ApplicationInsights.dll
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.DependencyCollector.xml
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.Web.xml
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.WindowsServer.xml
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.ApplicationInsights.xml
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.csprojAssemblyReference.cache
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.csproj.CoreCompileInputs.cache
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.csproj.CopyComplete
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.dll
+D:\C#\KnightToursPackages (1)\KnightToursPackages\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.pdb
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\ApplicationInsights.config
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\roslyn\csc.exe
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\roslyn\vbc.exe
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\roslyn\VBCSCompiler.exe
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\KnightToursPackages.dll.config
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\KnightToursPackages.dll
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\KnightToursPackages.pdb
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.Web.dll
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.Web.xml
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.csprojAssemblyReference.cache
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.csproj.CopyComplete
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.dll
+C:\Users\bhawa\Downloads\KnightToursPackages\KnightToursPackages\obj\Debug\KnightToursPackages.pdb
